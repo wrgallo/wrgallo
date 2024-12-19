@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+ - ~~We've Been Trying To Reach You About Your Car's Extended Warranty~~
+ - If my work has helped you in any way, feel free to donate:
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=KMZJSAB2S7JSN)
+
 <!--
 **wrgallo/wrgallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
